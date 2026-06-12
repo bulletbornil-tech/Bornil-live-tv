@@ -1,0 +1,14 @@
+<video id="video" controls autoplay style="width:100%"></video>
+
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+
+<script>
+const url = new URLSearchParams(window.location.search).get("url");
+
+if (Hls.isSupported()) {
+  const video = document.getElementById("video");
+  const hls = new Hls();
+  hls.loadSource(url);
+  hls.attachMedia(video);
+}
+</script>
