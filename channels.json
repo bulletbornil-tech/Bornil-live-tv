@@ -28,5 +28,66 @@
     "logo": "https://img.icons8.com/fluency/96/tv.png",
     "stream_url": "http://182.48.93.238:8080/live/screen.m3u8",
     "category": "Live"
+  },
+  {
+    "name": "Caze TV",
+    "logo": "https://i.ibb.co.com/9JJ04g9/1000284076.png",
+    "group": "FIFA",
+    "stream_url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8"
+  },
+  {
+    "name": "Tampad",
+    "logo": "https://imglink.cc/cdn/RY7jBwPKAr.jpg",
+    "group": "Sports",
+    "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8"
+  },
+  {
+    "name": "Win Sports",
+    "logo": "https://imglink.cc/cdn/RY7jBwPKAr.jpg",
+    "group": "Sports",
+    "stream_url": "https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8"
+  },
+  {
+    "name": "Bein Sports",
+    "logo": "https://imglink.cc/cdn/RY7jBwPKAr.jpg",
+    "group": "Sports",
+    "stream_url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8"
+  },
+  {
+    "name": "Dazn Direct",
+    "logo": "https://imglink.cc/cdn/RY7jBwPKAr.jpg",
+    "group": "Sports",
+    "stream_url": "https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8"
+  },
+  {
+    "name": "TVP Sports",
+    "logo": "https://imglink.cc/cdn/RY7jBwPKAr.jpg",
+    "group": "Sports",
+    "stream_url": "https://1nyaler.streamhostingcdn.top/stream/89/index.m3u8"
+  },
+  {
+    "name": "D Sports",
+    "logo": "https://imglink.cc/cdn/RY7jBwPKAr.jpg",
+    "group": "Sports",
+    "stream_url": "https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8"
+  },
+  {
+    "name": "TYC Sports",
+    "logo": "https://imglink.cc/cdn/RY7jBwPKAr.jpg",
+    "group": "Sports",
+    "stream_url": "https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8"
+  },
+  {
+    "name": "TV Azteca",
+    "logo": "https://imglink.cc/cdn/RY7jBwPKAr.jpg",
+    "group": "Sports",
+    "stream_url": "https://1nyaler.streamhostingcdn.top/stream/117/index.m3u8"
+  },
+  {
+    "name": "TUDN Sports",
+    "logo": "https://imglink.cc/cdn/RY7jBwPKAr.jpg",
+    "group": "Sports",
+    "stream_url": "https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8"
   }
 ]
+
