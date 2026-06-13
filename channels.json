@@ -14,7 +14,14 @@
   {
     "name": "Fox Sports 2 - (FIFA)",
     "logo": "https://imglink.cc/cdn/o5BoWU_BEz.png",
-    "stream_url": "https://tvsen7.aynaott.com/foxsports2/index.m3u8?e=1779283790&amp;u=78be6644-0a65-48ec-81a4-089ac65a2619&amp;token=cbb7f40b4af7be51a91e0629a5ac7238",
+    "stream_url": "https://tvsen7.aynaott.com/foxsports2/index.m3u8?e=1779283790&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=cbb7f40b4af7be51a91e0629a5ac7238",
+    "category": "Sports"
+  },
+
+  {
+    "name": "Extra Live Stream",
+    "logo": "https://img.icons8.com/fluency/96/live.png",
+    "stream_url": "https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8",
     "category": "Sports"
   }
 ]
