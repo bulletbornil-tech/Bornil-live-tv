@@ -6,6 +6,30 @@
     "category": "Sports"
   },
   {
+    "name": "616 Sports 4K",
+    "logo": "https://imglink.cc/cdn/RY7jBwPKAr.jpg",
+    "category": "Sports",
+    "stream_url": "http://starhub.pro/live/farhat-3379/67897-913379/745270.ts"
+  },
+  {
+    "name": "Caze TV Brazil",
+    "logo": "https://imglink.cc/cdn/RY7jBwPKAr.jpg",
+    "category": "Sports",
+    "stream_url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8"
+  },
+  {
+    "name": "PTV Sports",
+    "logo": "https://imglink.cc/cdn/RY7jBwPKAr.jpg",
+    "category": "Sports",
+    "stream_url": "http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "name": "Tapmad",
+    "logo": "https://imglink.cc/cdn/RY7jBwPKAr.jpg",
+    "category": "Sports",
+    "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8"
+  },
+  {
     "name": "Win Sports",
     "logo": "https://imglink.cc/cdn/RY7jBwPKAr.jpg",
     "group": "Sports",
