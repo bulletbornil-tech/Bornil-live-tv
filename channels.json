@@ -6,18 +6,6 @@
     "category": "Sports"
   },
   {
-    "name": "M6 Sports",
-    "logo": "https://imglink.cc/cdn/RY7jBwPKAr.jpg",
-    "stream_url": "https://tv.beyondtaxconsultants.com/api/robi/lps/http://151.80.18.177:86/M6_HD/index.m3u8",
-    "category": "Sports"
-  },
-  {
-    "name": "Go Live Sports",
-    "logo": "https://imglink.cc/cdn/RY7jBwPKAr.jpg",
-    "stream_url": "https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8",
-    "category": "Sports"
-  },
-  {
     "name": "Win Sports",
     "logo": "https://imglink.cc/cdn/RY7jBwPKAr.jpg",
     "group": "Sports",
