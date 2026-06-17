@@ -1,18 +1,8 @@
 [
   {
-    "name": "NBCU Puerto Rico",
-    "logo": "",
-    "stream_url": "https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_720.m3u8"
-  },
-  {
-    "name": "DAZN FAST HD",
-    "logo": "",
-    "stream_url": "https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd"
-  },
-  {
-    "name": "Sports Channel",
-    "logo": "",
-    "stream_url": "http://str2.v3v3v.xyz:2082/live/rokhsi25_951396/POm6KqnW/277428.ts"
+    "name": "Prime Sports",
+    "logo": "https://i.ibb.co.com/default-logo.png",
+    "stream_url": "https://bokul-cdn.primesports.top/tflix/play.php?id=6a2acbcabb676"
   },
   {
     "name": "Win Sports",
