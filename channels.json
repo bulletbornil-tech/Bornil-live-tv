@@ -1,8 +1,10 @@
 [
+  
   {
-    "name": "Prime Sports",
-    "logo": "https://i.ibb.co.com/default-logo.png",
-    "stream_url": "https://bokul-cdn.primesports.top/tflix/play.php?id=6a2acbcabb676"
+    "name": "tapmad_bd.m3u",
+    "logo": null,
+    "stream_url": "https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.m3u",
+    "category": "All Channels"
   },
   {
     "name": "Win Sports",
