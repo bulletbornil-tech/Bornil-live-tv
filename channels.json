@@ -1,5 +1,11 @@
 [
   {
+  "name": "World Cup Bangla",
+  "logo": "https://upload.wikimedia.org/wikipedia/en/6/69/Somoy_TV_Logo.png",
+  "url": "https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8",
+  "group": "Bangla News"
+  },
+  {
     "name": "World Cup S2",
     "logo": "https://imglink.cc/cdn/RY7jBwPKAr.jpg",
     "stream_url": "https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8"
